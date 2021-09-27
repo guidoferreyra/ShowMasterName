@@ -5,9 +5,10 @@ The plugin will show in the top left corner of the Edit view a text with the mas
 
 ![](preview.png)
 
-How to use:
+## How to use:
+
 Open a fonts and activate the plugin via View>Show Master Name menu item.
 
-Installation:
+## Installation:
 
 For better update handling install the plugin via the Window > Plugin Manager inside Glyphs App and restart the app.
